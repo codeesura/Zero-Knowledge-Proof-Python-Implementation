@@ -7,10 +7,10 @@ The prover does not reveal the actual secret during the interaction, maintaining
 This repository contains a simple implementation of Zero-Knowledge Proofs (ZKP) in Python.
 
 ## Table of Contents
-1. [Requirements](#-requirements)
-2. [Usage](#-usage)
-3. [Example](#-example)
-4. [License](#-license)
+1. [Requirements](#requirements)
+2. [Usage](#usage)
+3. [Example](#example)
+4. [License](#license)
 
 ## Requirements
 
